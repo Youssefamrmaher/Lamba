@@ -1,0 +1,17 @@
+{
+  "note": "Typical running wattage for Egyptian homes. Users can edit wattage on the Appliances screen.",
+  "appliances": [
+    { "id": "ac", "emoji": "❄️", "watts": 1200, "name": { "en": "Air conditioner", "ar": "تكييف" } },
+    { "id": "fridge", "emoji": "🧊", "watts": 150, "name": { "en": "Fridge", "ar": "تلاجة" } },
+    { "id": "washer", "emoji": "🫧", "watts": 500, "name": { "en": "Washing machine", "ar": "غسالة" } },
+    { "id": "heater", "emoji": "🚿", "watts": 1500, "name": { "en": "Water heater", "ar": "سخان مياه" } },
+    { "id": "tv", "emoji": "📺", "watts": 100, "name": { "en": "TV", "ar": "تلفزيون" } },
+    { "id": "fan", "emoji": "🌀", "watts": 60, "name": { "en": "Fan", "ar": "مروحة" } },
+    { "id": "iron", "emoji": "👕", "watts": 1200, "name": { "en": "Iron", "ar": "مكواة" } },
+    { "id": "microwave", "emoji": "🍲", "watts": 1000, "name": { "en": "Microwave", "ar": "ميكروويف" } },
+    { "id": "kettle", "emoji": "☕", "watts": 2000, "name": { "en": "Electric kettle", "ar": "كاتل" } },
+    { "id": "pump", "emoji": "💧", "watts": 750, "name": { "en": "Water pump", "ar": "موتور مياه" } },
+    { "id": "computer", "emoji": "💻", "watts": 150, "name": { "en": "Computer", "ar": "كمبيوتر" } },
+    { "id": "lights", "emoji": "💡", "watts": 100, "name": { "en": "Lights", "ar": "لمبات" } }
+  ]
+}
