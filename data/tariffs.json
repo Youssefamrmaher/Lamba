@@ -1,0 +1,14 @@
+{
+  "currency": "EGP",
+  "year": 2026,
+  "note": "Residential tiers. maxKwh is inclusive; null means no upper limit. A tier with flat=true bills every kWh of the month at its rate.",
+  "tiers": [
+    { "tier": 1, "maxKwh": 50, "rate": 0.68 },
+    { "tier": 2, "maxKwh": 100, "rate": 0.95 },
+    { "tier": 3, "maxKwh": 200, "rate": 1.15 },
+    { "tier": 4, "maxKwh": 350, "rate": 1.72 },
+    { "tier": 5, "maxKwh": 650, "rate": 2.18 },
+    { "tier": 6, "maxKwh": 1000, "rate": 2.4 },
+    { "tier": 7, "maxKwh": null, "rate": 2.74, "flat": true }
+  ]
+}
